@@ -10,7 +10,7 @@ therefore our goal is to deliver them as quickly as possible to the depot.
 
 # Approaches
 
-The solve the routing protocol the Q-Learning algorithm was used which is an off-policy TD control algorithm in Reinforcement Learning:
+To solve the routing protocol the Q-Learning algorithm was used which is an off-policy TD control algorithm in Reinforcement Learning:
  - greedy (with exploration in the early stages)
  - greedy (without exploratin in the early stages)
  - best action (with exploration in the early stages)
